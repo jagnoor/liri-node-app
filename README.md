@@ -61,6 +61,8 @@ node liri.js do-what-it-says
 	2. [twitter](https://www.npmjs.com/package/twitter)
 	3. [spotify](https://www.npmjs.com/package/spotify)
 	4. [request](https://www.npmjs.com/package/request)
+	5. [node-spotify-api] (https://www.npmjs.com/package/node-spotify-api) 
+
 
 * to install these npm packages run these commands one at a time.
 ```
@@ -68,4 +70,12 @@ npm install twitter
 npm install spotify
 npm install request
 ```
+
+
+API Credential sites
+Twitter: https://apps.twitter.com/app/new
+
+Spotify: https://developer.spotify.com/my-applications/
+
+OMDb API: http://www.omdbapi.com/apikey.aspx
 
