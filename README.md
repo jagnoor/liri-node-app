@@ -1,27 +1,18 @@
 
 ## LIRI Node App
 
-```
-<img width="1421" alt="screen shot 2018-07-15 at 23 02 17" src="https://user-images.githubusercontent.com/27736403/42742842-04b7a886-8884-11e8-9ef7-ee4fdfa15fee.png">
-<img width="1150" alt="screen shot 2018-07-15 at 23 01 25" src="https://user-images.githubusercontent.com/27736403/42742843-04c78d6e-8884-11e8-8e78-423eb6061c81.png">
-<img width="1155" alt="screen shot 2018-07-15 at 22 59 59" src="https://user-images.githubusercontent.com/27736403/42742844-04d5f958-8884-11e8-8f7a-8f3b55117b1d.png">
-
-
-```
 
 ### Commands to run LIRI
 
 Follow the format presented in these queries
-```
+
 -node liri.js my-tweets
 -node liri.js spotify-this-song '<song name here>'
 -node liri.js movie-this '<movie name here>'
 -node liri.js do-what-it-says
 
-
-
-
 ### Introduction
+
 
 * I created a node.js app called LIRI. LIRI is like SIRI (from an iphone).
 * It must be ran in the command line.
@@ -91,4 +82,13 @@ Twitter: https://apps.twitter.com/app/new
 Spotify: https://developer.spotify.com/my-applications/
 
 OMDb API: http://www.omdbapi.com/apikey.aspx
+
+
+```
+<img width="1421" alt="screen shot 2018-07-15 at 23 02 17" src="https://user-images.githubusercontent.com/27736403/42742842-04b7a886-8884-11e8-9ef7-ee4fdfa15fee.png">
+<img width="1150" alt="screen shot 2018-07-15 at 23 01 25" src="https://user-images.githubusercontent.com/27736403/42742843-04c78d6e-8884-11e8-8e78-423eb6061c81.png">
+<img width="1155" alt="screen shot 2018-07-15 at 22 59 59" src="https://user-images.githubusercontent.com/27736403/42742844-04d5f958-8884-11e8-8f7a-8f3b55117b1d.png">
+
+
+```
 
