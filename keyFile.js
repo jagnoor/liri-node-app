@@ -1,5 +1,5 @@
 
-console.log('keys loaded');
+console.log('keys are locked and loaded');
 
 
 // Get Twitter API credentials by following these steps:
@@ -8,7 +8,7 @@ console.log('keys loaded');
 // Step Three: Then go to "Keys and Access Tokens" to get credentials for below
 // Step Four: Then click the button below on that page to create an access token
 
-exports.twitter = {
+exports.twitterKeys = {
   consumer_key: process.env.TWITTER_CONSUMER_KEY,
   consumer_secret: process.env.TWITTER_CONSUMER_SECRET,
   access_token_key: process.env.TWITTER_ACCESS_TOKEN_KEY,
@@ -22,11 +22,17 @@ exports.twitter = {
 // Step Four: On the next screen, scroll down to where you see your client id and client secret. Copy these values down below, you'll need them to use the Spotify API and the node-spotify-api package.
 
 
-exports.spotify = {
+exports.spotifyKeys = {
   id: process.env.SPOTIFY_ID,
   secret: process.env.SPOTIFY_SECRET
 };
 
+
+
+// API Credential sites
+// Twitter: apps.twitter.com/app/new
+// Spotify: developer.spotify.com/my-applications/
+// OMDb API: www.omdbapi.com/apikey.aspx
 
 
 // API Credential sites
