@@ -100,10 +100,10 @@ let getTweets = function () {
             //FIXME:   
             // writeToLog(data)
 
-            //fs.appendFile("log.txt", '\r\n\r\n')
-            fs.appendFile('log.txt', JSON.stringify(data), function (err) {
+            //fs.appendFile('log.txt', '\r\n\r\n')
+            fs.appendFile('log.txt',JSON.stringify(data), function (err) {
                 if (err) throw err
-                console.log('This information is Saved! in log.txt ')
+                console.log('\r\n\r\n This information is Saved! in log.txt \r\n\r\n')
             })
 
         }
