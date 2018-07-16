@@ -1,6 +1,14 @@
 
 ## LIRI Node App
 
+```
+<img width="1421" alt="screen shot 2018-07-15 at 23 02 17" src="https://user-images.githubusercontent.com/27736403/42742842-04b7a886-8884-11e8-9ef7-ee4fdfa15fee.png">
+<img width="1150" alt="screen shot 2018-07-15 at 23 01 25" src="https://user-images.githubusercontent.com/27736403/42742843-04c78d6e-8884-11e8-8e78-423eb6061c81.png">
+<img width="1155" alt="screen shot 2018-07-15 at 22 59 59" src="https://user-images.githubusercontent.com/27736403/42742844-04d5f958-8884-11e8-8f7a-8f3b55117b1d.png">
+
+
+```
+
 ### Commands to run LIRI
 
 Follow the format presented in these queries
@@ -10,11 +18,7 @@ Follow the format presented in these queries
 -node liri.js movie-this '<movie name here>'
 -node liri.js do-what-it-says
 
-https://user-images.githubusercontent.com/27736403/42742842-04b7a886-8884-11e8-9ef7-ee4fdfa15fee.png
 
-https://user-images.githubusercontent.com/27736403/42742843-04c78d6e-8884-11e8-8e78-423eb6061c81.png
-
-https://user-images.githubusercontent.com/27736403/42742844-04d5f958-8884-11e8-8f7a-8f3b55117b1d.png
 
 
 ### Introduction
@@ -34,13 +38,7 @@ So if you were to type the below command you'd get the last 20 tweets I created 
 
 * Example for twitter
 //TO DO
-```
-node liri.js my-tweets
-```
 
-* Example for spotify
-//TO DO
-```
 node liri.js spotify-this-song '<song name here>'
 ```
 * shows the following information about the song in the terminal
