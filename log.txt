@@ -60,3 +60,39 @@
               URL: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
 
 
+
+
+              ================= LIRI FOUND THIS FOR AWESOME INFORMATION YOU YOU ...==================
+
+              Song Name: 'UNFORGIVEN'
+
+              Album Name: Metallica
+
+              Artist Name: Metallica
+
+              URL: https://open.spotify.com/album/6QdCohkHKNTVoaSx1ZzitH
+
+
+
+
+              ===###= LIRI FOUND THIS SUPER USEFULL INFO ONLY FOR YOU...===###==========
+
+              Title: Saving Private Ryan
+
+              Year: 1998
+
+              Rated: R
+
+              IMDB Rating: 8.6
+
+              Country: USA
+
+              Language: English, French, German, Czech
+
+              Plot: Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.
+
+              Actors: Tom Hanks, Tom Sizemore, Edward Burns, Barry Pepper
+
+              IMDb Rating: 8.6
+
+

@@ -10,6 +10,7 @@ Follow the format presented in these queries
 -node liri.js movie-this '<movie name here>'
 -node liri.js do-what-it-says
 
+<img src="./1.jpg" alt=""/>
 
 ### Introduction
 
