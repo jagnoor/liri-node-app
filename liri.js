@@ -155,7 +155,7 @@ let getMeMovie = function (movieName) {
 let doWhatItSays = function () {
     fs.readFile('random.txt', 'utf8', function (error, data) {
         console.log(data)
-        writeToLog(data)
+        // writeToLog(data)
         let dataArr = data.split(',')
 
         if (dataArr.length == 2) {

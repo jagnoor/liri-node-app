@@ -1,1 +1,49 @@
-[{"created at: ":"Mon Jul 16 01:47:17 +0000 2018","Tweets: ":"RT @DanEnglishby: Here’s some humour for Monday Morning - https://t.co/bl1rpFOZsf\n\n#Developer #node #nodejs #coding #js #angularjs #vuejs #…"},{"created at: ":"Mon Jul 16 01:44:27 +0000 2018","Tweets: ":"RT @CodersInHood: #CoddersMood \nSometimes we have just two questions...🤔🤣\n\n#javascript #100DaysOfCode #freeCodeCamp #frontend #reactjs  #Vu…"},{"created at: ":"Mon Jul 16 01:44:12 +0000 2018","Tweets: ":"RT @markg1rling: Learning to code takes time. I like to think I'm pretty good now, but it took some years.\n\nFor newcomers looking for some…"}][{"created at: ":"Mon Jul 16 01:47:17 +0000 2018","Tweets: ":"RT @DanEnglishby: Here’s some humour for Monday Morning - https://t.co/bl1rpFOZsf\n\n#Developer #node #nodejs #coding #js #angularjs #vuejs #…"},{"created at: ":"Mon Jul 16 01:44:27 +0000 2018","Tweets: ":"RT @CodersInHood: #CoddersMood \nSometimes we have just two questions...🤔🤣\n\n#javascript #100DaysOfCode #freeCodeCamp #frontend #reactjs  #Vu…"},{"created at: ":"Mon Jul 16 01:44:12 +0000 2018","Tweets: ":"RT @markg1rling: Learning to code takes time. I like to think I'm pretty good now, but it took some years.\n\nFor newcomers looking for some…"}][{"created at: ":"Mon Jul 16 01:47:17 +0000 2018","Tweets: ":"RT @DanEnglishby: Here’s some humour for Monday Morning - https://t.co/bl1rpFOZsf\n\n#Developer #node #nodejs #coding #js #angularjs #vuejs #…"},{"created at: ":"Mon Jul 16 01:44:27 +0000 2018","Tweets: ":"RT @CodersInHood: #CoddersMood \nSometimes we have just two questions...🤔🤣\n\n#javascript #100DaysOfCode #freeCodeCamp #frontend #reactjs  #Vu…"},{"created at: ":"Mon Jul 16 01:44:12 +0000 2018","Tweets: ":"RT @markg1rling: Learning to code takes time. I like to think I'm pretty good now, but it took some years.\n\nFor newcomers looking for some…"}][{"created at: ":"Mon Jul 16 01:47:17 +0000 2018","Tweets: ":"RT @DanEnglishby: Here’s some humour for Monday Morning - https://t.co/bl1rpFOZsf\n\n#Developer #node #nodejs #coding #js #angularjs #vuejs #…"},{"created at: ":"Mon Jul 16 01:44:27 +0000 2018","Tweets: ":"RT @CodersInHood: #CoddersMood \nSometimes we have just two questions...🤔🤣\n\n#javascript #100DaysOfCode #freeCodeCamp #frontend #reactjs  #Vu…"},{"created at: ":"Mon Jul 16 01:44:12 +0000 2018","Tweets: ":"RT @markg1rling: Learning to code takes time. I like to think I'm pretty good now, but it took some years.\n\nFor newcomers looking for some…"}]
+[{"created at: ":"Mon Jul 16 01:47:17 +0000 2018","Tweets: ":"RT @DanEnglishby: Here’s some humour for Monday Morning - https://t.co/bl1rpFOZsf\n\n#Developer #node #nodejs #coding #js #angularjs #vuejs #…"},{"created at: ":"Mon Jul 16 01:44:27 +0000 2018","Tweets: ":"RT @CodersInHood: #CoddersMood \nSometimes we have just two questions...🤔🤣\n\n#javascript #100DaysOfCode #freeCodeCamp #frontend #reactjs  #Vu…"},{"created at: ":"Mon Jul 16 01:44:12 +0000 2018","Tweets: ":"RT @markg1rling: Learning to code takes time. I like to think I'm pretty good now, but it took some years.\n\nFor newcomers looking for some…"}][{"created at: ":"Mon Jul 16 01:47:17 +0000 2018","Tweets: ":"RT @DanEnglishby: Here’s some humour for Monday Morning - https://t.co/bl1rpFOZsf\n\n#Developer #node #nodejs #coding #js #angularjs #vuejs #…"},{"created at: ":"Mon Jul 16 01:44:27 +0000 2018","Tweets: ":"RT @CodersInHood: #CoddersMood \nSometimes we have just two questions...🤔🤣\n\n#javascript #100DaysOfCode #freeCodeCamp #frontend #reactjs  #Vu…"},{"created at: ":"Mon Jul 16 01:44:12 +0000 2018","Tweets: ":"RT @markg1rling: Learning to code takes time. I like to think I'm pretty good now, but it took some years.\n\nFor newcomers looking for some…"}][{"created at: ":"Mon Jul 16 01:47:17 +0000 2018","Tweets: ":"RT @DanEnglishby: Here’s some humour for Monday Morning - https://t.co/bl1rpFOZsf\n\n#Developer #node #nodejs #coding #js #angularjs #vuejs #…"},{"created at: ":"Mon Jul 16 01:44:27 +0000 2018","Tweets: ":"RT @CodersInHood: #CoddersMood \nSometimes we have just two questions...🤔🤣\n\n#javascript #100DaysOfCode #freeCodeCamp #frontend #reactjs  #Vu…"},{"created at: ":"Mon Jul 16 01:44:12 +0000 2018","Tweets: ":"RT @markg1rling: Learning to code takes time. I like to think I'm pretty good now, but it took some years.\n\nFor newcomers looking for some…"}][{"created at: ":"Mon Jul 16 01:47:17 +0000 2018","Tweets: ":"RT @DanEnglishby: Here’s some humour for Monday Morning - https://t.co/bl1rpFOZsf\n\n#Developer #node #nodejs #coding #js #angularjs #vuejs #…"},{"created at: ":"Mon Jul 16 01:44:27 +0000 2018","Tweets: ":"RT @CodersInHood: #CoddersMood \nSometimes we have just two questions...🤔🤣\n\n#javascript #100DaysOfCode #freeCodeCamp #frontend #reactjs  #Vu…"},{"created at: ":"Mon Jul 16 01:44:12 +0000 2018","Tweets: ":"RT @markg1rling: Learning to code takes time. I like to think I'm pretty good now, but it took some years.\n\nFor newcomers looking for some…"}][{"created at: ":"Mon Jul 16 01:47:17 +0000 2018","Tweets: ":"RT @DanEnglishby: Here’s some humour for Monday Morning - https://t.co/bl1rpFOZsf\n\n#Developer #node #nodejs #coding #js #angularjs #vuejs #…"},{"created at: ":"Mon Jul 16 01:44:27 +0000 2018","Tweets: ":"RT @CodersInHood: #CoddersMood \nSometimes we have just two questions...🤔🤣\n\n#javascript #100DaysOfCode #freeCodeCamp #frontend #reactjs  #Vu…"},{"created at: ":"Mon Jul 16 01:44:12 +0000 2018","Tweets: ":"RT @markg1rling: Learning to code takes time. I like to think I'm pretty good now, but it took some years.\n\nFor newcomers looking for some…"}]
+
+              ================= LIRI FOUND THIS FOR AWESOME INFORMATION YOU YOU ...==================
+
+              Song Name: 'UNFORGIVEN'
+
+              Album Name: Metallica
+
+              Artist Name: Metallica
+
+              URL: https://open.spotify.com/album/6QdCohkHKNTVoaSx1ZzitH
+
+
+
+
+              ================= LIRI FOUND THIS FOR AWESOME INFORMATION YOU YOU ...==================
+
+              Song Name: ''I WANT IT THAT WAY''
+
+              Album Name: The Hits--Chapter One
+
+              Artist Name: Backstreet Boys
+
+              URL: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+
+
+
+
+              ===###= LIRI FOUND THIS SUPER USEFULL INFO ONLY FOR YOU...===###==========
+
+              Title: Mr. Nobody
+
+              Year: 2009
+
+              Rated: R
+
+              IMDB Rating: 7.9
+
+              Country: Belgium, Germany, Canada, France, USA, UK
+
+              Language: English, Mohawk
+
+              Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+              Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+              IMDb Rating: 7.9
+
+
